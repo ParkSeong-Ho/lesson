@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/gitex.dir/gitex.cpp.o -o gitex  /usr/lib/x86_64-linux-gnu/libfmt.so.9.1.0 

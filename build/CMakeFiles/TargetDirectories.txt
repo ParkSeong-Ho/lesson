@@ -1,0 +1,3 @@
+/home/se9078/git_example/build/CMakeFiles/gitex.dir
+/home/se9078/git_example/build/CMakeFiles/edit_cache.dir
+/home/se9078/git_example/build/CMakeFiles/rebuild_cache.dir
