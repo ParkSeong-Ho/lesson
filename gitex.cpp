@@ -6,6 +6,7 @@ int main(){
     fmt::print("Hello, {}!\n","wsl");
 
     std::string s= fmt::format("The answer is {}.",42);
+     std::string s= fmt::format("The answer is {}.",43);
 
     return 0;
 }
